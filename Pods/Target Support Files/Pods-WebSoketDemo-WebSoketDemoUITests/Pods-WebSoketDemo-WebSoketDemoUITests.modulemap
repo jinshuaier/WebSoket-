@@ -1,0 +1,6 @@
+framework module Pods_WebSoketDemo_WebSoketDemoUITests {
+  umbrella header "Pods-WebSoketDemo-WebSoketDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
